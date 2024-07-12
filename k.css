@@ -1,0 +1,21 @@
+h1{
+    font-size: 70px;
+    font-style: italic;
+}
+
+#headerspecial{
+    color: violet;
+    font-size: 40px;
+    font-style: normal;
+}
+
+#paraboid{
+    color: brown;
+    border: solid 3px orange;
+    font-weight: bold;
+}
+
+.headerclass1{
+    color: cyan;
+    font-size: 30px;
+}
